@@ -1,0 +1,1 @@
+http://127.0.0.1;symbol=HEX_BTC;;;;;;;;;;;;;;False;False;False;False;False;False;False;False;False;False;False;False;False;False
